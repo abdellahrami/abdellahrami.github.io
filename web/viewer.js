@@ -4234,7 +4234,7 @@ var defaultOptions = {
     kind: OptionKind.VIEWER + OptionKind.PREFERENCE
   },
   defaultUrl: {
-    value: 'compressed.tracemonkey-pldi-09.pdf',
+    value: 'RAMI_CV_ENG.pdf',
     kind: OptionKind.VIEWER
   },
   defaultZoomValue: {
